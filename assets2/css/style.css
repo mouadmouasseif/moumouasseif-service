@@ -119,7 +119,7 @@ nav.navbar.bootsnav {
 /*.navbar-brand*/
 .navbar-header a.navbar-brand,.navbar-header a.navbar-brand:hover,.navbar-header a.navbar-brand:focus {
     display: inline-block;
-    color: #FFD700;
+    color: #b636ff;
     font-size: 20px;
     font-weight: 600;
     padding: 33px 0px 57px;
@@ -163,7 +163,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
     -webkit-box-shadow: inset 0 0 8px #000;
 }
 .menu-ui-design::-webkit-scrollbar-thumb {
-  background-color: #FFD700;
+  background-color: #b636ff;
 }
 /*.menu-ui-design*/
 
@@ -173,11 +173,11 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 nav.navbar.bootsnav .navbar-toggle {
     position: relative;
     background-color: transparent;
-    border: 1px solid #FFD700;
+    border: 1px solid #b636ff;
     padding: 10px;
     top: 0;
 }
-nav.navbar.bootsnav .navbar-toggle i{color: #FFD700;}
+nav.navbar.bootsnav .navbar-toggle i{color: #b636ff;}
 /*.navbar-toggle */
 
 
@@ -213,7 +213,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #FFD700;}
     text-transform: uppercase;
     line-height: 1.5;
 }
-.header-text h2 span {color: #FFD700;}
+.header-text h2 span {color: #b636ff;}
 .header-text p {
     color: #fff;
     font-size: 20px;
@@ -229,8 +229,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #FFD700;}
     border-radius: 3px;
     text-transform: capitalize;
     color: #fff;
-    background: #FFD700;
-    border:1px solid #FFD700;
+    background: #b636ff;
+    border:1px solid #b636ff;
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
     -webkit-transition: 0.3s linear; 
     -moz-transition: 0.3s linear; 
@@ -238,7 +238,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #FFD700;}
     -o-transition: 0.3s linear; 
     transition: 0.3s linear;
 }
-.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#FFD700;border: 1px solid #FFD700;}
+.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#b636ff;border: 1px solid #b636ff;}
 /*.header-text-area*/
 
 /*-------------------------------------
@@ -352,7 +352,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #FFD700;}
 }
 .timeline-horizontal-border i {
     font-size:  10px;
-    color: #FFD700;
+    color: #b636ff;
     margin-right:  5px;
 }
 span.single-timeline-horizontal {
@@ -386,7 +386,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .single-progress-txt h3 {
     width: 10%;
-    color: #FFD700;
+    color: #b636ff;
     position: relative;
     top: 6px;
     left: 20px;
@@ -406,7 +406,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     margin-bottom: 37px;
 }
 .progress-bar {
-   background: #FFD700;
+   background: #b636ff;
     border-radius: 3px;
    -webkit-transition: width 1.5s ease-in-out;
    -ms-transition: width 1.5s ease-in-out;
